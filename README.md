@@ -1,2 +1,2 @@
-# rednik.github.io
+# GhostBlog Deploy
 Chinese Personal Blog
